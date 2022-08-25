@@ -1,5 +1,7 @@
 // Write a JavaScript function to get the last element of an array. 
 const lastElement = (array) => {
+    return array[array.length -1]
+//  //why do I need to put it in square brackets?
 
 }
 
